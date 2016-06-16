@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "thebangsta/Laravel-Project",
+    "description": "Laravel Project",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
